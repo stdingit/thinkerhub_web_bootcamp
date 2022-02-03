@@ -1,0 +1,35 @@
+.parent {
+    height: 150px;
+    background-color: papayawhip;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.child {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    font-size: 10px;
+    text-align: center;
+    margin: 10px;
+    padding: 2px;
+   
+}
+
+
+.child1 {
+    background-color: blue;
+}
+
+.child2 {
+    background-color: green;
+}
+
+.child3 {
+    background-color: yellow;
+}
+
+.child4 {
+    background-color: red;
+}
